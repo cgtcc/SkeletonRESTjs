@@ -3,6 +3,8 @@ logs
 *.log
 npm-debug.log*
 
+config*
+
 # Runtime data
 pids
 *.pid
@@ -83,3 +85,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+config.js
